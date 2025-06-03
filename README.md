@@ -1,4 +1,6 @@
-# personal-expense-tracker
+
+# personal-expense-tracke
+This is my first git repository.
 A Python command-line application for tracking personal income and expenses with data visualization and monthly reporting features.
 #!/usr/bin/env python3
 """
